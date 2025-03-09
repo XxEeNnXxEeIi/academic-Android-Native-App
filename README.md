@@ -67,10 +67,8 @@ This Android application was developed to **recap and review study materials** f
 ---
 
 ## 🏗️ Features | คุณสมบัติของแอป  
-✅ **Study Notes** – Summarized key concepts for quick revision 📖  
-✅ **Quiz Mode** – Interactive quizzes to test knowledge 🎯  
+✅ **Lesson Summary** – Summarized key concepts for quick revision 📖  
 ✅ **Offline Access** – Study anywhere without an internet connection 🚀  
-✅ **Dark Mode** – Eye-friendly reading at night 🌙  
 ✅ **Simple UI** – Clean and easy-to-use interface 🎨  
 
 ---
@@ -83,11 +81,3 @@ This Android application was developed to **recap and review study materials** f
 - 🔥 **Firebase Realtime Database** – Real-time cloud storage  
 - 🗺️ **Google Maps API** – Location tracking  
 - 🏛 **MVVM Architecture** – Ensures scalability and maintainability  
-
----
-
-## 🚀 Getting Started | วิธีใช้งานและติดตั้ง  
-
-### 1️⃣ Clone the Repository  
-```bash
-git clone https://github.com/yourusername/recap-study-app.git
